@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://3lev4te.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://3lev4te.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://3lev4te.com/collections/all.atom"/>
+  <title>ELEVATE</title>
+  <updated>2024-08-05T16:16:49-04:00</updated>
+  <author>
+    <name>ELEVATE</name>
+  </author>
+  <entry>
+    <id>https://3lev4te.com/products/8010040049859</id>
+    <published>2024-08-05T16:16:49-04:00</published>
+    <updated>2024-08-05T16:16:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://3lev4te.com/products/posture-corrector"/>
+    <title>Posture corrector</title>
+    <s:type></s:type>
+    <s:vendor>Ma boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0659/1617/4531/files/Se9a82b661a234692978062c28ca6728av.webp?v=1722888904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ma boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>✔ <strong>Promotes Proper Alignment:</strong> Gently aligns your shoulders and back to correct your posture.</p>
+<p>✔ <strong>Reduces Slouching:</strong> Helps prevent and correct slouching for a straighter posture.</p>
+<p>✔ <strong>Alleviates Back Pain:</strong> Provides support to reduce back pain associated with poor posture.</p>
+<p>✔ <strong>Enhances Comfort:</strong> Comfortable for all-day wear, supporting a more relaxed posture.</p>
+<p>✔ <strong>Encourages Healthy Habits:</strong> Reinforces good posture habits for overall better well-being.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://3lev4te.com/products/8010040049859</id>
+      <title>black / 20-30kg  130-140cm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>14:200002984#backing strip style;5:100014064#20-30kg  130-140cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://3lev4te.com/products/8010040049859</id>
+      <title>black / 40-50kg  150-160cm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>14:200002984#backing strip style;5:361385#40-50kg  150-160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://3lev4te.com/products/8010040049859</id>
+      <title>black / 30-40kg  140-150cm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>14:200002984#backing strip style;5:361386#30-40kg  140-150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://3lev4te.com/products/8010040049859</id>
+      <title>black / 60-70kg  170-180cm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>14:200002984#backing strip style;5:4182#60-70kg  170-180cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://3lev4te.com/products/8010040049859</id>
+      <title>black / 50-60kg  160-170cm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>14:200002984#backing strip style;5:100014065#50-60kg  160-170cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://3lev4te.com/products/8010040049859</id>
+      <title>black / 70-80kg  180-190cm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>14:200002984#backing strip style;5:4183#70-80kg  180-190cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
